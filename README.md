@@ -1,6 +1,9 @@
 # tiny-but-mighty 🐜💪
 
-Small models doing big things. How they work, built by hand, and how they're used out in the world.
+From-scratch implementations, experiments, and technical notes on small language models.
+
+- **Under the hood:** transformer internals and the math behind them, architecture comparisons (Llama, Qwen, Gemma, Mistral, DeepSeek), and fine-tuning end to end: SFT, LoRA/QLoRA, quantization, evaluation, preference optimization (DPO, GRPO), distillation, and on-device deployment.
+- **In the wild:** research on the small-model ecosystem: model families and licensing, production use cases, tooling and infrastructure, funding and unit economics, and open research directions.
 
 ## What's inside
 
