@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+.DS_Store
+# model weights / checkpoints can be huge
+*.safetensors
+*.bin
+*.gguf
+*.pt
+checkpoints/
+outputs/
+wandb/
