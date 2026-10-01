@@ -1,17 +1,20 @@
 # tiny-but-mighty 🐜💪
 
-A learning journal about small models doing big things. I'm documenting what I learn and building things along the way.
+Small models doing big things. How they work, built by hand, and how they're used out in the world.
 
-## Topics
+## What's inside
 
-| Topic | What it's about | Status |
-|---|---|---|
-| [finetuning](finetuning/) | Fine-tuning small LLMs | 🌱 starting |
-| [landscape](landscape/) | Companies, models, use cases, funding, and where small models are headed | 🌱 starting |
-| [rag](rag/) | Retrieval-augmented generation | 💤 not started |
+| Section | What it's about |
+|---|---|
+| [under-the-hood](under-the-hood/) | The technical side: math, architectures, fine-tuning, RAG, all built from scratch |
+| ↳ [foundations](under-the-hood/foundations/) | Math, transformers from scratch, comparing model architectures |
+| ↳ [finetuning](under-the-hood/finetuning/) | Fine-tuning small LLMs, from training loops to deployment |
+| ↳ [rag](under-the-hood/rag/) | Retrieval-augmented generation |
+| [in-the-wild](in-the-wild/) | The industry side: companies, models, use cases, funding, and where it's all going |
 
 ## How this repo works
 
-Each topic gets its own folder with:
-- `README.md` with notes, takeaways, and links I found useful
+Each module gets its own folder with:
+- `notes.md`: concepts in my own words, derivations, takeaways
 - code, notebooks, and experiments
+- `results/`: plots and numbers

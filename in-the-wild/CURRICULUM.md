@@ -1,6 +1,7 @@
-# The small-model landscape: curriculum
+# In the wild: curriculum
 
-Track B (horizontal). It runs alongside the technical track in [../finetuning/CURRICULUM.md](../finetuning/CURRICULUM.md).
+Track B (horizontal): how small models are actually built, sold, funded, and used out in the world.
+It runs alongside the technical track in [../under-the-hood/](../under-the-hood/).
 
 Each module: **research → write it up → form an opinion.**
 Numbers in this space go stale fast, so every claim in my notes gets a source and a date.
