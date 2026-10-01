@@ -2,6 +2,8 @@
 
 A learning journal about small models doing big things. I'm documenting what I learn and building things along the way.
 
+📓 **[Learning journal](JOURNAL.md)**: where I am, what I've learned, and what I've decided.
+
 ## Topics
 
 | Topic | What it's about | Status |
