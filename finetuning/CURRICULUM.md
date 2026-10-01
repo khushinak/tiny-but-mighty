@@ -12,25 +12,6 @@ CPU modules use tiny models (SmolLM2-135M/360M). Modules marked **(GPU)** use a 
 
 ---
 
-## Suggested order (A and B interleaved)
-
-| Week-ish | Track A (vertical) | Track B (horizontal) |
-|---|---|---|
-| 1 | A0 Math foundations | B1 The model landscape |
-| 2 | A1 Transformer from scratch | B1 (cont.) |
-| 3 | A2 Architecture anatomy & comparison | B2 Open vs. closed, licenses |
-| 4 | A3 The training loop | B3 Use cases |
-| 5 | A4 Instruction tuning & data | B4 Tooling & infrastructure |
-| 6 | A5 PEFT: LoRA and friends | B4 (cont.) |
-| 7 | A6 Fine-tuning knobs | B5 Money: funding & economics |
-| 8 | A7 Quantization & QLoRA (GPU) | B6 On-device & edge |
-| 9 | A8 Evaluation | B5 (cont.) |
-| 10 | A9 Preference & RL tuning (GPU) | B7 The cutting edge |
-| 11 | A10 Distillation, inference & deployment | B8 Do small models have a future? |
-| 12+ | A11 Capstone | B9 My own thesis |
-
----
-
 ## A0: Math foundations
 
 Just enough math to read papers and derive things myself.
