@@ -7,6 +7,7 @@ A learning journal about small models doing big things. I'm documenting what I l
 | Topic | What it's about | Status |
 |---|---|---|
 | [finetuning](finetuning/) | Fine-tuning small LLMs | 🌱 starting |
+| [landscape](landscape/) | Companies, models, use cases, funding, and where small models are headed | 🌱 starting |
 | [rag](rag/) | Retrieval-augmented generation | 💤 not started |
 
 ## How this repo works
